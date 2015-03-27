@@ -1,7 +1,7 @@
 # karma-chai-as-promised
 chai-as-promised plugin for karma
 
-[![NPM version](https://badge.fury.io/js/karma-chai-as-promised.svg)](http://badge.fury.io/js/validate-it) [![Dependency Status](https://david-dm.org/vlkosinov/karma-chai-as-promised.svg)](https://david-dm.org/vlkosinov/validate-it)
+[![NPM version](https://badge.fury.io/js/karma-chai-as-promised.svg)](https://badge.fury.io/js/karma-chai-as-promised) [![Dependency Status](https://david-dm.org/vlkosinov/karma-chai-as-promised.svg)](https://david-dm.org/vlkosinov/karma-chai-as-promised)
 
 ## Installation
 ```sh
