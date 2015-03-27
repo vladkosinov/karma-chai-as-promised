@@ -1,6 +1,6 @@
 {
   "name": "karma-chai-as-promised",
-  "version": "0.1.0",
+  "version": "0.1.1",
 
   "author": "Vlad Kosinov <vladkosinov@gmail.com>",
   "description": "Chai-as-promised plugin for karma",
@@ -11,7 +11,7 @@
     "chai-as-promised": "^4.3.0"
   },
   "peerDependencies": {
-    "chai": "^2.1.2 ",
+    "chai": "* ",
     "karma": ">=0.10.9"
   },
 
