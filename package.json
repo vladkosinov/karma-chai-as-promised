@@ -1,18 +1,15 @@
 {
   "name": "karma-chai-as-promised",
-  "version": "0.1.1",
+  "version": "0.1.2",
 
   "author": "Vlad Kosinov <vladkosinov@gmail.com>",
   "description": "Chai-as-promised plugin for karma",
   "keywords": ["karma", "karma-plugin", "chai", "chai-as-promised"],
   "license": "MIT",
 
-  "dependencies": {
-    "chai-as-promised": "^4.3.0"
-  },
   "peerDependencies": {
-    "chai": "* ",
-    "karma": ">=0.10.9"
+    "chai-as-promised": "*",
+    "karma-chai": "*"
   },
 
   "homepage": "https://github.com/vlkosinov/karma-chai-as-promised",
