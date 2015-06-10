@@ -25,6 +25,7 @@ module.exports = function(config) {
   'use strict';
   config.set({
     frameworks: ['mocha', 'chai-as-promised', 'chai'],
+    plugins: [ ... , 'karma-chai-as-promised']
     #...
   });
 }
